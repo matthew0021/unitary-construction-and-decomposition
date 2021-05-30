@@ -5,8 +5,6 @@ protocol, one has to first construct the unitary operator. The
 methodology of the construction was given in the paper Phys.
 Rev. Lett. 120, 240502 (2018).
 
---
-
 This set of codes is made up of two parts:
 (1) Constructing the unitary operator.
 (2) Decomposing the unitary operator.
